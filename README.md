@@ -5,7 +5,7 @@
 ## Overview  
 This project is a **FastAPI-based essay correction service** that utilizes **Google's Gemini AI** to correct spelling and grammar, provide suggestions, and assign a grade. The application integrates with **MySQL** to store correction history.
 
-**Project Link:**[https://www.bacbonx.com](https://www.bacbonx.com)
+**Project Link:** [https://www.bacbonx.com](https://www.bacbonx.com)
 
 ## Features  
 - Accepts an **essay topic** and **text** as input  
