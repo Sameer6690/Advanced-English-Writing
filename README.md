@@ -19,7 +19,7 @@ This project is a **FastAPI-based essay correction service** that utilizes **Goo
 
 ## Tech Stack  
 - **Backend Framework:** FastAPI  
-- **AI Model:** Google Gemini API  
+- **AI Model:** Google Gemini Flash 1.5 
 - **Database:** MySQL  
 - **Data Validation:** Pydantic  
 
